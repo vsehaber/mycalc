@@ -2,7 +2,7 @@
 % Please edit documentation in R/somar.R
 \name{somar}
 \alias{somar}
-\title{Função para somar}
+\title{Função para somar dois números}
 \usage{
 somar(a, b)
 }

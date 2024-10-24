@@ -1,6 +1,6 @@
-#' Função para subtrair
+#' Função para subtrair dois números reais
 #'
-#' Esta função serve para subtrair dois números a e b
+#' Esta função serve para subtrair dois números reais a e b
 #'
 #'
 #' @param a Um número

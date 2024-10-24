@@ -2,7 +2,7 @@
 % Please edit documentation in R/subtrair.R
 \name{subtrair}
 \alias{subtrair}
-\title{Função para subtrair}
+\title{Função para subtrair dois números}
 \usage{
 subtrair(a, b)
 }
