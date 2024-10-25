@@ -3,7 +3,6 @@
 #' Esta função serve para somar dois números reais a e b.
 #'
 #'
-#'
 #' @param a Um número
 #' @param b Outro número
 #'
