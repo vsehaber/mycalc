@@ -11,6 +11,7 @@
 #' subtrari(6,2)
 #'
 #'
+#'
 #' @export
 subtrair <- function(a,b){
   a - b
