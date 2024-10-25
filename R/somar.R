@@ -1,6 +1,6 @@
 #' Função para somar dois números reais
 #'
-#' Esta função serve para somar dois números reais a e b
+#' Esta função serve para somar dois números reais a e b.
 #'
 #'
 #' @param a Um número
