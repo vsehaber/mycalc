@@ -6,8 +6,10 @@
 #' @param a Um número
 #' @param b Outro número
 #'
+#'
 #' @examples
 #' subtrari(6,2)
+#'
 #'
 #' @export
 subtrair <- function(a,b){
